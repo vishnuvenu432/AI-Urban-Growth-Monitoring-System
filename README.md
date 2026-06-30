@@ -73,7 +73,7 @@ Gemini AI Report Generation
             ▼
 Final Urban Growth Assessment
 ```
-
+![Workflow Diagram](Images/workflow_diagram.png)
 ---
 
 # Technologies Used
